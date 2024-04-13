@@ -2,10 +2,15 @@
 
 > Utilização de deep analytics e machine learning para solução de um problema
 
+### 📌 Descrição
+Este projeto é um estudo de caso realizado por uma empresa de consultoria especializada em tecnologia contratada para fornecer suporte à ABX Tecnologia. A ABX Tecnologia atua no segmento de importação e revenda de produtos, atendendo a uma variedade de clientes que inclui desde pequenas lojas até grandes redes de supermercados e armarinhos.
+
 ### 📄 Explicação do problema
 
-Sua empresa de consultoria especializada em tecnologia foi contratada para fornecer suporte à ABX Tecnologia. Esta empresa atua no segmento de importação e revenda de
-produtos, atendendo a uma variedade de clientes que inclui desde pequenas lojas até grandes redes de supermercados e armarinhos.
+A empresa precisa de uma estratégia para melhorar a análise de crédito de seus clientes. Atualmente, a análise de crédito não é uniforme e varia de acordo com o segmento do cliente. Além disso, a empresa deseja automatizar o processo de recomendação de crédito para que os analistas possam basear suas decisões em modelos preditivos.
+
+### 🎲 Conjunto de Dados
+O conjunto de dados fornecido consiste em 8974 solicitações de crédito de diversos clientes da ABX Tecnologia. Cada cliente pode ter várias solicitações de crédito com valores distintos. Os dados incluem informações como razão social, nome fantasia, CNPJ, histórico de pagamento, indicadores financeiros, status da solicitação, entre outros.
 
 ### 📁 Pastas
 
