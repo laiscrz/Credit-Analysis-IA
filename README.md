@@ -1,4 +1,5 @@
 # 👨‍💻 Análise de risco e crédito com IA.👩‍💻
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=for-the-badge)
 
 > Utilização de deep analytics e machine learning para solução de um problema
 
