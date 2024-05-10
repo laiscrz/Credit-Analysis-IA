@@ -114,14 +114,6 @@ Queremos agradecer às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/LuccaRaphael">
-        <img src="https://avatars.githubusercontent.com/u/127765063?v=4" width="100px;" border-radius='50%' alt="Lucca Raphael's photo on GitHub"/><br>
-        <sub>
-          <b>Lucca Raphael</b>
-        </sub>
-      </a>
-    </td>
      <td align="center">
       <a href="https://github.com/Fabs0602">
         <img src="https://avatars.githubusercontent.com/u/111320639?v=4" width="100px;" border-radius='50%' alt="Fabricio Torres's photo on GitHub"/><br>
