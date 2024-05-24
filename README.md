@@ -49,7 +49,7 @@ Esta pasta contém o arquivo Jupyter Notebook (arquivo .ipynb) onde é realizada
     - Utilização das bibliotecas `tensorflow` e `keras` para criar uma rede neural.
     - Objetivo: Prever se o valor será Aprovado (1) ou Reprovado (0).
     - Métrica de Avaliação: Acurácia.
-  - ** 📊 Modelo de Regressão:**
+  - **📊 Modelo de Regressão:**
     - Utilização do `RandomForestRegressor()` para prever o valor aprovado/recomendado para a empresa.
     - Métricas de Avaliação: RMSE (Root Mean Squared Error), MSE (Mean Squared Error) e R² (Coeficiente de Determinação).
 
