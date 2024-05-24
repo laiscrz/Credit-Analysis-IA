@@ -23,10 +23,35 @@ Esta pasta contém o arquivo CSV fornecido pela ABX Tecnologia, que contém os d
 ### 📂 Pasta `analise`
 Esta pasta contém o arquivo Jupyter Notebook (arquivo .ipynb) onde é realizada a análise exploratória dos dados, pré-processamento, criação do modelo de machine learning e métricas de performance. O notebook está organizado da seguinte maneira:
 
-- **Análise exploratória dos dados**: Análise exploratória dos dados (graficos, visualização etc).
-- **pré-processamento de dados**: Limpeza e normalização dos dados.
-- **Criação do modelo ML** Definição do tipo do problema(classificação ou regressão), definição do algoritmo a ser utilizado, separação de dados testes e de treinamento.
-- **Métricas de perfomance**: Para testar a performance de algoritmos de classificação(acuracia). Para testar a performance de algoritmos de regressão(MSE, RMSE e R²).
+- **🧩 Carregamento dos Dados:** 
+  - Importação das bibliotecas necessárias.
+  - Carregamento do dataset.
+
+- **🧩 Preparação e Análise Exploratória dos Dados:** 
+  - Visualização das estruturas dos dados.
+  - Análise das distribuições dos atributos.
+  - Visualização gráfica dos dados para identificar padrões e insights iniciais.
+
+- **🧩 Pré-Processamento dos Dados:** 
+  - Tratamento de valores ausentes.
+  - Codificação de variáveis categóricas.
+  - Normalização ou padronização de variáveis numéricas.
+
+- **🧩 Análise de Agrupamento:** 
+  - Identificação de padrões e relacionamentos entre as variáveis.
+  - Agrupamento dos dados para encontrar grupos com características semelhantes.
+
+- **🧩 Modelos de Machine Learning:**
+  - **📊 Modelo de Classificação:**
+    - Utilização do `RandomForestClassifier()` para classificar novos clientes, determinando o tamanho da empresa e o nível de risco.
+    - Métrica de Avaliação: Acurácia.
+  - **📊 Modelo de Rede Neural:**
+    - Utilização das bibliotecas `tensorflow` e `keras` para criar uma rede neural.
+    - Objetivo: Prever se o valor será Aprovado (1) ou Reprovado (0).
+    - Métrica de Avaliação: Acurácia.
+  - ** 📊 Modelo de Regressão:**
+    - Utilização do `RandomForestRegressor()` para prever o valor aprovado/recomendado para a empresa.
+    - Métricas de Avaliação: RMSE (Root Mean Squared Error), MSE (Mean Squared Error) e R² (Coeficiente de Determinação).
 
 ### 📂 Pasta `documents`
 Esta pasta contém um documento PDF que oferece uma visão geral do projeto. 
