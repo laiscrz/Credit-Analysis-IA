@@ -28,6 +28,9 @@ Esta pasta contém o arquivo Jupyter Notebook (arquivo .ipynb) onde é realizada
 - **Criação do modelo ML** Definição do tipo do problema(classificação ou regressão), definição do algoritmo a ser utilizado, separação de dados testes e de treinamento.
 - **Métricas de perfomance**: Para testar a performance de algoritmos de classificação(acuracia). Para testar a performance de algoritmos de regressão(MSE, RMSE e R²).
 
+### 📂 Pasta `documents`
+Esta pasta contém um documento PDF que oferece uma visão geral do projeto. 
+
 ## 💻 Tecnologias
 
 As seguintes ferramentas foram usadas neste projeto:
