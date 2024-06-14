@@ -112,16 +112,27 @@ cd Credit-Analysis-IA
 ```sh
 pip install -r requirements.txt
 ```
-
 Isso garantirá que todas as bibliotecas Python necessárias estejam instaladas e prontas para uso no seu ambiente.
 
-Agora você está pronto para começar a trabalhar no projeto!
+---------------------------------------------------------------------------------------------------
+> Agora você está pronto para começar a trabalhar no projeto!
+---------------------------------------------------------------------------------------------------
 
-> Essas etapas claras e concisas guiarão os usuários para iniciar o projeto sem problemas.
+## 🫂 Integrantes
 
-### 🤝 Colaboradores
+Aqui estão os membros do grupo que participaram durante desenvolvimento deste projeto:
 
-Queremos agradecer às seguintes pessoas que contribuíram para este projeto:
+* **RM 552267 - Bianca Leticia Román Caldeira**
+  - Turma: 2TDSPH
+    
+* **RM 552252 – Charlene Aparecida Estevam Mendes Fialho**
+  - Turma: 2TDSPH
+
+* **RM 552258 - Laís Alves da Silva Cruz**
+  - Turma: 2TDSPH
+
+* **RM 97916 – Fabricio Torres Antonio**
+  - Turma: 2TDSPH
 
 <table>
   <tr>
