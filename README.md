@@ -3,6 +3,10 @@
 
 > Utilização de deep analytics e machine learning para solução de um problema
 
+## ⭐ Nota
+O projeto recebeu a nota máxima pelo professor da matéria "Disruptive Architectures: IOT, IOB & GENERATIVE IA" realizado como CheckPoint2 avaliativo, do 3° semestre de ADS. 
+> [Professor Arnaldo](https://github.com/arnaldojr).
+
 ## 📌 Descrição
 Este projeto é um estudo de caso realizado por uma empresa de consultoria especializada em tecnologia contratada para fornecer suporte à ABX Tecnologia. A ABX Tecnologia atua no segmento de importação e revenda de produtos, atendendo a uma variedade de clientes que inclui desde pequenas lojas até grandes redes de supermercados e armarinhos.
 
@@ -95,17 +99,20 @@ Certifique-se de ter essas ferramentas instaladas para poder clonar o projeto e 
 Siga estas etapas para começar:
 
 - Clone o projeto :
-```bash
-$ git clone https://github.com/laiscrz/CP2-IA
+```sh
+git clone https://github.com/laiscrz/Credit-Analysis-IA.git
 ```
+
 - Acesse o projeto :
-```bash
-$ cd CP2-IA
+```sh
+cd Credit-Analysis-IA
 ```
+
 - Antes de executar o projeto, Instale as dependências:
-```bash
-$ pip install -r requirements.txt
+```sh
+pip install -r requirements.txt
 ```
+
 Isso garantirá que todas as bibliotecas Python necessárias estejam instaladas e prontas para uso no seu ambiente.
 
 Agora você está pronto para começar a trabalhar no projeto!
